@@ -4,7 +4,7 @@ import java.util.Date;
 
 public class Utility {
 	public Date GetSysDate() {
-		System.out.println("Hello World1");
+		System.out.println("Hello World2");
 		return new Date();
 	}
 
